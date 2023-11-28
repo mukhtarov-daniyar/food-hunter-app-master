@@ -46,5 +46,5 @@ Functional components<br />
 
 ## 6. 💎 License
 
-Copyright (c) Appinbox
+Copyright (c) Amanat Development
 

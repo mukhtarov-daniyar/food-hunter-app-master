@@ -28,6 +28,7 @@
     "@react-navigation/stack": "^5.14.3",
     "firestore-jest-mock": "^0.19.0",
     "jest-config": "^29.3.1",
+    "metro-core": "^0.80.1",
     "mobx": "^6.2.0",
     "mobx-react-lite": "^3.2.0",
     "mobx-state-tree": "^5.0.1",
