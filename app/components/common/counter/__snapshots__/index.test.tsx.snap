@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+      },
+      null,
+    ]
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "opacity": 1,
+        "padding": 19.23076923076923,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "fontSize": 35.416666666666664,
+        }
+      }
+    >
+      -
+    </Text>
+  </View>
+  <Text
+    style={
+      {
+        "fontSize": 35.416666666666664,
+        "paddingHorizontal": 19.23076923076923,
+      }
+    }
+  >
+    1
+  </Text>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "opacity": 1,
+        "padding": 19.23076923076923,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "fontSize": 35.416666666666664,
+        }
+      }
+    >
+      +
+    </Text>
+  </View>
+</View>
+`;

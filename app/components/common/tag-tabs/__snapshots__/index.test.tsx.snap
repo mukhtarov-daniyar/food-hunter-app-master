@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RCTScrollView
+  ItemSeparatorComponent={[Function]}
+  collapsable={false}
+  contentContainerStyle={
+    {
+      "paddingHorizontal": 38.46153846153846,
+      "paddingVertical": 38.46153846153846,
+    }
+  }
+  data={[]}
+  getItem={[Function]}
+  getItemCount={[Function]}
+  horizontal={true}
+  keyExtractor={[Function]}
+  onContentSizeChange={[Function]}
+  onGestureHandlerEvent={[Function]}
+  onGestureHandlerStateChange={[Function]}
+  onLayout={[Function]}
+  onMomentumScrollBegin={[Function]}
+  onMomentumScrollEnd={[Function]}
+  onScroll={[Function]}
+  onScrollBeginDrag={[Function]}
+  onScrollEndDrag={[Function]}
+  removeClippedSubviews={false}
+  renderItem={[Function]}
+  renderScrollComponent={[Function]}
+  scrollEventThrottle={50}
+  showsHorizontalScrollIndicator={false}
+  stickyHeaderIndices={[]}
+  style={
+    {
+      "flexGrow": 0,
+    }
+  }
+  viewabilityConfigCallbackPairs={[]}
+>
+  <View />
+</RCTScrollView>
+`;

@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#ffffff",
+      "borderRadius": 38.46153846153846,
+      "elevation": 5,
+      "flexDirection": "row",
+      "marginBottom": 28.846153846153847,
+      "opacity": 1,
+      "paddingHorizontal": 19.23076923076923,
+      "paddingVertical": 19.23076923076923,
+      "shadowColor": "black",
+      "shadowOffset": {
+        "height": -1.9230769230769231,
+        "width": 5.769230769230769,
+      },
+      "shadowOpacity": 0.1,
+      "shadowRadius": 13.461538461538462,
+    }
+  }
+>
+  <Image
+    source={
+      {
+        "uri": "url",
+      }
+    }
+    style={
+      {
+        "borderRadius": 38.46153846153846,
+        "height": 250,
+        "width": 250,
+      }
+    }
+  />
+  <View
+    style={
+      {
+        "flex": 1,
+        "justifyContent": "center",
+        "marginLeft": 38.46153846153846,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#3D3D3D",
+          "fontSize": 33.333333333333336,
+          "fontWeight": "bold",
+          "marginBottom": 19.23076923076923,
+        }
+      }
+    >
+      title
+    </Text>
+    <Text
+      style={
+        {
+          "color": "#3D3D3D",
+          "fontSize": 29.166666666666668,
+        }
+      }
+    >
+      description
+    </Text>
+  </View>
+</View>
+`;
